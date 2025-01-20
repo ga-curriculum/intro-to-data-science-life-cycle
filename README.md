@@ -32,5 +32,5 @@ Importantly, it underscores that the process is often non-linear, that not every
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Slides](https://docs.google.com/presentation/d/1yJSplwoohSysEaRPI-wDuZDHIRyRbOaQQ-kaR5oBtVw/edit?usp=sharing) | 60 min | • Intro to Data Science Lifecycle <br>• Framing the Problem<br>• Preparing and Exploring your Data <br>• Modeling <br>• Communicating <br>• Deploying, Monitoring and Maintaining |
+| [Slides](https://docs.google.com/presentation/d/1yJSplwoohSysEaRPI-wDuZDHIRyRbOaQQ-kaR5oBtVw/edit?usp=sharing) | 120 min | • Intro to Data Science Lifecycle <br>• Framing the Problem<br>• Preparing and Exploring your Data <br>• Modeling <br>• Communicating <br>• Deploying, Monitoring and Maintaining |
 | **Total content**                                   | 115-120 min |                    Including breaks                 | 
