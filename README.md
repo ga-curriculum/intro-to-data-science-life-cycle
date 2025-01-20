@@ -1,65 +1,36 @@
-<h1>
-  <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
-</h1>
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Data Science Lifecycle
 
+**Author:** Andrés I. González Flores
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module is designed to provide a comprehensive overview of the data science lifecycle, emphasizing the importance of each stage and how they connect to solve real-world business problems. 
+Rather than delving into the technical execution of specific tasks, the course focuses on equipping learners with the skills to identify, comprehend, and interpret the key steps of a successful data science project. 
+
+Importantly, it underscores that the process is often non-linear, that not every step is applicable to every project, and that iterative refinements are a common.
+
+## Learning Objectives
+- <u>**Intro:**</u>
+  - **Describe** the key stages of the data science lifecycle and understand how each stage connects to solving real-world problems
+- <u>**Framing the Problem:**</u>
+  - **Recall** the key steps and considerations involved in identifying a business challenge, defining objectives, and understanding the context for applying data science solutions.
+  - **Understand** the importance of framing the data science problem to maximize project success and ensure meaningful outcomes.
+- <u>**Preparing and Exploring your Data:**</u>
+  - **Identify** key factors to evaluate the quality and relevance of data sources, ensuring their suitability for addressing specific problems.
+  -  **Explain** the key steps involved in data preparation.
+  - **Explain** the importance of performing exploratory data analysis (EDA).
+- <u>**Modelling:**</u>
+  - **Explain** the key considerations for selecting appropriate models or algorithms based on problem type, data characteristics, and business requirements.
+  - **Recall** the key steps involved in the data science modelling stage.
+- <u>**Communicating:**</u>
+  - **Understand** key steps involved in effectively communicating data science insights to stakeholders.
+  - **Recall** common data science communication tools.
+- <u>**Deploying, Monitoring and Maintaining:**</u>
+  - **Identify** key steps in deploying, monitoring, and maintaining data science solutions.
+  - **Identify** the most common tools and technologies used for deploying and monitoring data science models.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Internal
-
-### Prerequisites
-
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-### Course landing pages
-
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+| [Slides](https://docs.google.com/presentation/d/1yJSplwoohSysEaRPI-wDuZDHIRyRbOaQQ-kaR5oBtVw/edit?usp=sharing) | 60 min | • Intro to Data Science Lifecycle <br>• Framing the Problem<br>• Preparing and Exploring your Data <br>• Modeling <br>• Communicating <br>• Deploying, Monitoring and Maintaining |
+| **Total content**                                   | 115-120 min |                    Including breaks                 | 
